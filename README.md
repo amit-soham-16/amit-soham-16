@@ -23,7 +23,7 @@
 <a href="https://www.codechef.com/users/amitkr16531n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amitkr16531n" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amit_soham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amit_soham" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amitkr16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amitkr16_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit-soham-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit-soham-16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Amit_Soham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit-soham-16" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amit_soham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amit_soham" height="30" width="40" /></a>
 </p>
 

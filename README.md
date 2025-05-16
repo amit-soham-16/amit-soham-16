@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java , Api Development, Sql and Nosql Databases.**
 
-- 📫 How to reach me  : **amitkr1602info@gmail.com**
+- 📫 How to reach me  : **amit.cse122035@bppimt.ac.in**
 
 - ⚡ Fun fact : **I can stare at code for hours, trying to find that one missing semicolon**
 

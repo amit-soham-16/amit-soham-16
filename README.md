@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Aspiring Software Development Engineer with strong skills in Java, Spring Boot, Maven, MySQL, MongoDB, Python, HTML and CSS. A Third-year B.Tech CSE student with hands-on project experience, eager to contribute to innovative development teams while focusing on growth and learning.</h3>
+<h3 align="center">Aspiring Software Development Engineer with strong skills in Java, Spring Boot, Maven, MySQL, MongoDB, Python, HTML and CSS. A Final year B.Tech CSE student with hands-on project experience, eager to contribute to innovative development teams while focusing on growth and learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-soham-16&label=Profile%20views&color=0e75b6&style=flat" alt="amit-soham-16" /> </p>
 

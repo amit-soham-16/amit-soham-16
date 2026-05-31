@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Aspiring Software Development Engineer with strong skills in Python, Java , django, scikit-learn, Pytorch, AI , HTML and CSS. A Final year B.Tech CSE student with hands-on project experience, eager to contribute to innovative development teams while focusing on growth and learning.</h3>
+<h3 align="center">Aspiring Software Development Engineer with strong skills in Python, Java , django, scikit-learn, AWS , AI , HTML and CSS. A Final year B.Tech CSE student with hands-on project experience, eager to contribute to innovative development teams while focusing on growth and learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-soham-16&label=Profile%20views&color=0e75b6&style=flat" alt="amit-soham-16" /> </p>
 
@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently exploring on **Artificial Intelligence and Machine Learning.**
-- 👯 I’m looking to collaborate on **Python Backend Projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Java ,Python, Api Development, Sql and Nosql Databases.**
 - 📫 How to reach me  : **amit.cse122035@bppimt.ac.in**
 - ⚡ Fun fact : **I can stare at code for hours, trying to find that one missing semicolon**
